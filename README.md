@@ -1,2 +1,2 @@
 # CV.github.io
-https://vaseem791.github.io/CV/
+https://vaseem791.github.io/CV
